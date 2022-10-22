@@ -180,7 +180,29 @@
       "weight": 78,
       "height": 1.85,
       "home_planet": "Terra 616",
-      "description": "Duende Verde é o alter-ego de Norman Osborn, um supervilão fictício que aparece nas histórias em quadrinhos norte-americanas publicadas pela Marvel Comics.\n\nO personagem foi criado pelo escritor Stan Lee e pelo artista Steve Ditko, e apareceu pela primeira vez na revista The Amazing Spider-Man # 14."
+      "description": "Duende Verde é o alter-ego de Norman Osborn, um supervilão fictício que aparece nas histórias em quadrinhos norte-americanas publicadas pela Marvel Comics.\n\nO personagem foi criado pelo escritor Stan Lee e pelo artista Steve Ditko, e apareceu pela primeira vez na revista The Amazing Spider-Man # 14.",
+      "abilities": [{
+          "name": "Força",
+          "level": 32
+        },
+        {
+          "name": "Inteligência",
+          "level": 41
+        },
+        {
+          "name": "Agilidade",
+          "level": 35
+        },
+        {
+          "name": "Resistência",
+          "level": 27
+        },
+        {
+          "name": "Velocidade",
+          "level": 35
+        }
+      ],
+      "films": [1, 4, 5]
     },
     {
       "id": 7,
