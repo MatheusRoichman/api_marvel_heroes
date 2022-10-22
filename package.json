@@ -1,0 +1,11 @@
+{
+  "name": "api_marvel_heroes",
+  "version": "1.0.0",
+  "description": "Marvel API mock with JSON Server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch api.json --port 3000"
+  },
+  "author": "Matheus Lima Roichman",
+  "license": "ISC"
+}

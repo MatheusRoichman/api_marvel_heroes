@@ -1,0 +1,550 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "real_name": "Peter Parker",
+      "character_name": "Homem Aranha",
+      "category": "hero",
+      "image_url": "spider_man.png",
+      "age": 30,
+      "weight": 78,
+      "height": 1.80,
+      "home_planet": "Terra 616",
+      "description": "Em Forest Hills, Queens, Nova York, o estudante de ensino médio, Peter Parker, é um cientista orfão que vive com seu tio Ben e tia May. Ele é mordido por uma aranha radioativa em uma exposição científica e adquire a agilidade e a força proporcional de um aracnídeo. Junto com a super força, Parker ganha a capacidade de andar nas paredes e tetos.\n\nAtravés de sua habilidade nativa para a ciência, ele desenvolve um aparelho que o permitir lançar teias artificiais. Inicialmente buscando capitalizar suas novas habilidades, Parker cria um traje e, como Homem Aranha, torna-se uma estrela de televisão.",
+      "abilities": [{
+          "name": "Força",
+          "level": 32
+        },
+        {
+          "name": "Inteligência",
+          "level": 29
+        },
+        {
+          "name": "Agilidade",
+          "level": 41
+        },
+        {
+          "name": "Resistência",
+          "level": 27
+        },
+        {
+          "name": "Velocidade",
+          "level": 35
+        }
+      ],
+      "films": [1, 2, 4]
+    },
+    {
+      "id": 2,
+      "real_name": "T'Challa",
+      "character_name": "Pantera Negra",
+      "category": "hero",
+      "image_url": "black_panther.png",
+      "age": 56,
+      "weight": 90.7,
+      "height": 1.83,
+      "home_planet": "Terra 616",
+      "description": "O Pantera Negra é o título cerimonial atribuído ao chefe da Tribo Pantera da avançada nação africana de Wakanda. Além de governar o país, ele também é chefe de suas várias tribos (coletivamente conhecida como Wakandas). O uniforme do Pantera é um símbolo oficial (chefe de estado) e é usado mesmo durante missões diplomáticas. O Pantera é um título hereditário, mas ainda é preciso ganhar um desafio.\n\nNo passado distante, um enorme meteorito maciço composto de vibranium - elemento que absorve o som, entre outras propriedades especiais - caiu em Wakanda, e é desenterrado uma geração antes dos eventos do presente.",
+      "abilities": [{
+          "name": "Força",
+          "level": 29
+        },
+        {
+          "name": "Inteligência",
+          "level": 27
+        },
+        {
+          "name": "Agilidade",
+          "level": 43
+        },
+        {
+          "name": "Resistência",
+          "level": 27
+        },
+        {
+          "name": "Velocidade",
+          "level": 38
+        }
+      ],
+      "films": [1, 3, 4]
+    },
+    {
+      "id": 3,
+      "real_name": "Tony Stark",
+      "character_name": "Homem de Ferro",
+      "category": "hero",
+      "image_url": "iron_man.png",
+      "age": 53,
+      "weight": 78,
+      "height": 1.85,
+      "home_planet": "Terra 616",
+      "description": "Tony Stark é um industrial bilionário, playboy e inventor. Ele é o fundador da Stark Industries, uma empresa de alta tecnologia. Após ser sequestrado e forçado a construir uma arma devastadora, Stark constrói uma armadura de alta tecnologia para escapar. Depois de usar sua armadura para combater os terroristas que o sequestraram, Stark decide usar sua armadura para combater o crime, tornando-se o Homem de Ferro.\n\nStark é um personagem de quadrinhos da Marvel Comics, e foi criado por Stan Lee, Larry Lieber e Don Heck. O personagem apareceu pela primeira vez em Tales of Suspense #39 (março de 1963). O Homem de Ferro foi adaptado para o cinema em 2008, com Robert Downey Jr. no papel principal.",
+      "abilities": [{
+          "name": "Força",
+          "level": 32
+        },
+        {
+          "name": "Inteligência",
+          "level": 41
+        },
+        {
+          "name": "Agilidade",
+          "level": 35
+        },
+        {
+          "name": "Resistência",
+          "level": 27
+        },
+        {
+          "name": "Velocidade",
+          "level": 35
+        }
+      ],
+      "films": [1, 4, 5]
+    },
+    {
+      "id": 4,
+      "real_name": "Jöhann Schmidt",
+      "character_name": "Caveira Vermelha",
+      "category": "villain",
+      "image_url": "red_skull.png",
+      "age": 53,
+      "weight": 78,
+      "height": 1.85,
+      "home_planet": "Terra 616",
+      "description": "Johann Schmidt é um cientista alemão que se tornou o Caveira Vermelha, um supervilão que usa uma armadura de alta tecnologia para combater o Homem de Ferro. Ele é um dos principais inimigos do Homem de Ferro, e é um dos poucos vilões que já derrotou o herói.\n\nO Caveira Vermelha foi criado por Stan Lee, Don Heck e Larry Lieber, e apareceu pela primeira vez em Tales of Suspense #50 (fevereiro de 1964). O personagem foi adaptado para o cinema em 2010, com o ator Hugo Weaving no papel principal.",
+      "abilities": [{
+          "name": "Força",
+          "level": 32
+        },
+        {
+          "name": "Inteligência",
+          "level": 41
+        },
+        {
+          "name": "Agilidade",
+          "level": 35
+        },
+        {
+          "name": "Resistência",
+          "level": 27
+        },
+        {
+          "name": "Velocidade",
+          "level": 35
+        }
+      ],
+      "films": [1, 4, 5]
+    },
+    {
+      "id": 5,
+      "real_name": "Victor Von Doom",
+      "character_name": "'Doutor Destino",
+      "category": "villain",
+      "image_url": "doctor_doom.png",
+      "age": 53,
+      "weight": 78,
+      "height": 1.85,
+      "home_planet": "Terra 616",
+      "description": "Victor Von Doom é um cientista e inventor que se tornou o Doutor Destino, um supervilão que usa uma armadura de alta tecnologia para combater o Homem de Ferro. Ele é um dos principais inimigos do Homem de Ferro, e é um dos poucos vilões que já derrotou o herói.\n\nO Doutor Destino foi criado por Stan Lee, Don Heck e Larry Lieber, e apareceu pela primeira vez em Tales of Suspense #50 (fevereiro de 1964). O personagem foi adaptado para o cinema em 2010, com o ator Hugo Weaving no papel principal.",
+      "abilities": [{
+          "name": "Força",
+          "level": 32
+        },
+        {
+          "name": "Inteligência",
+          "level": 41
+        },
+        {
+          "name": "Agilidade",
+          "level": 35
+        },
+        {
+          "name": "Resistência",
+          "level": 27
+        },
+        {
+          "name": "Velocidade",
+          "level": 35
+        }
+      ],
+      "films": [1, 4, 5]
+    },
+    {
+      "id": 6,
+      "real_name": "Norman Osborn",
+      "character_name": "Duende Verde",
+      "category": "villain",
+      "image_url": "green_goblin.png",
+      "age": 53,
+      "weight": 78,
+      "height": 1.85,
+      "home_planet": "Terra 616",
+      "description": "Duende Verde é o alter-ego de Norman Osborn, um supervilão fictício que aparece nas histórias em quadrinhos norte-americanas publicadas pela Marvel Comics.\n\nO personagem foi criado pelo escritor Stan Lee e pelo artista Steve Ditko, e apareceu pela primeira vez na revista The Amazing Spider-Man # 14."
+    },
+    {
+      "id": 7,
+      "real_name": "Wade Wilson",
+      "character_name": "Deadpool",
+      "category": "antihero",
+      "image_url": "deadpool.png",
+      "age": 53,
+      "weight": 78,
+      "height": 1.85,
+      "home_planet": "Terra 616",
+      "description": "Wade Wilson é um ex-agente da Força Tarefa X que se tornou o mercenário Deadpool. Ele é um anti-herói que usa uma armadura de alta tecnologia para combater o Homem de Ferro. Ele é um dos principais inimigos do Homem de Ferro, e é um dos poucos vilões que já derrotou o herói.\n\nO Deadpool foi criado por Rob Liefeld e Fabian Nicieza, e apareceu pela primeira vez em New Mutants #98 (fevereiro de 1991). O personagem foi adaptado para o cinema em 2010, com o ator Ryan Reynolds no papel principal.",
+      "abilities": [{
+          "name": "Força",
+          "level": 32
+        },
+        {
+          "name": "Inteligência",
+          "level": 41
+        },
+        {
+          "name": "Agilidade",
+          "level": 35
+        },
+        {
+          "name": "Resistência",
+          "level": 27
+        },
+        {
+          "name": "Velocidade",
+          "level": 35
+        }
+      ],
+      "films": [1, 4, 5]
+    },
+    {
+      "id": 8,
+      "real_name": "Eddie Brock",
+      "character_name": "Venom",
+      "category": "antihero",
+      "image_url": "venom.png",
+      "age": 53,
+      "weight": 78,
+      "height": 1.85,
+      "home_planet": "Terra 616",
+      "description": "Venom é um simbionte alienígena formado a partir de um líquido, material orgânico de espessura. A característica marcante de Venom, além do uniforme negro, é a desproporcional e assustadora mandíbula, desenhada no traço de Todd MacFarlane.\n\nAntes de fundir-se ao simbionte e tornar-se Venom, Eddie Brock era repórter do jornal O Clarim Diário, e foi demitido por Homem-Aranha.",
+      "abilities": [{
+          "name": "Força",
+          "level": 32
+        },
+        {
+          "name": "Inteligência",
+          "level": 41
+        },
+        {
+          "name": "Agilidade",
+          "level": 35
+        },
+        {
+          "name": "Resistência",
+          "level": 27
+        },
+        {
+          "name": "Velocidade",
+          "level": 35
+        }
+      ],
+      "films": [1, 4, 5]
+    },
+    {
+      "id": 9,
+      "real_name": "Francis Castle",
+      "character_name": "Justiceiro",
+      "category": "antihero",
+      "image_url": "punisher.png",
+      "age": 53,
+      "weight": 78,
+      "height": 1.85,
+      "home_planet": "Terra 616",
+      "description": "O Justiceiro é um anti-herói que usa uma armadura de alta tecnologia para combater o Homem de Ferro. Ele é um dos principais inimigos do Homem de Ferro, e é um dos poucos vilões que já derrotou o herói.\n\nCriado pelo escritor Gerry Conway e pelos artistas Ross Andru e John Romita (Stan Lee aprovou o nome), apareceu pela primeira vez em The Amazing Spider-Man #129 (fev. de 1974).",
+      "abilities": [{
+          "name": "Força",
+          "level": 32
+        },
+        {
+          "name": "Inteligência",
+          "level": 41
+        },
+        {
+          "name": "Agilidade",
+          "level": 35
+        },
+        {
+          "name": "Resistência",
+          "level": 27
+        },
+        {
+          "name": "Velocidade",
+          "level": 35
+        }
+      ],
+      "films": [1, 4, 5]
+    },
+    {
+      "id": 10,
+      "real_name": "Deviant",
+      "character_name": "Thanos",
+      "category": "alien",
+      "image_url": "thanos.png",
+      "age": 53,
+      "weight": 78,
+      "height": 1.85,
+      "home_planet": "Titã",
+      "description": "Thanos é um supervilão fictício que aparece nas histórias em quadrinhos norte-americanas publicadas pela Marvel Comics. O personagem foi criado pelo escritor-roteirista Jim Starlin e pelo artista-roteirista e co-criador do personagem, o artista George Pérez.\n\nO personagem é uma figura central na \"Saga do Infinito\", aparecendo em cinco filmes, incluindo os blockbusters Vingadores: Guerra Infinita (2018) e Vingadores: Ultimato (2019). Os filmes retratam Thanos como um guerreiro alienígena do planeta Titã, que busca coletar as seis joias do infinito e usá-las para trazer \"equilíbrio\" ao universo, eliminando metade de todos os seres vivos, a fim de estabilizar sua superpopulação.",
+      "abilities": [{
+          "name": "Força",
+          "level": 32
+        },
+        {
+          "name": "Inteligência",
+          "level": 41
+        },
+        {
+          "name": "Agilidade",
+          "level": 35
+        },
+        {
+          "name": "Resistência",
+          "level": 27
+        },
+        {
+          "name": "Velocidade",
+          "level": 35
+        }
+      ],
+      "films": [1, 4, 5]
+    },
+    {
+      "id": 11,
+      "real_name": "Kree",
+      "character_name": "Ronan",
+      "category": "alien",
+      "image_url": "ronan.png",
+      "age": 53,
+      "weight": 78,
+      "height": 1.85,
+      "home_planet": "Hala",
+      "description": "Ronan nasceu no planeta Hala, capital do Império alienígena Kree na Grande Nuvem de Magalhães; é membro do \"Conselho dos Acusadores\", que são o equivalente a governadores, militares e juristas. Sua ascensão na hierarquia foi extraordinária, logo acabou se tornando o terceiro mais poderoso do Império Kree. A entidade conhecida como: \"Inteligência Suprema\" o nomeou a \"Supremo Acusador do Império Kree\", e neste cargo ele ficou conhecido simplesmente como Ronan, o Acusador.\n\nMais tarde, Ronan foi enviado à Terra para investigar a derrota do robô Sentry - 459 para Quarteto Fantástico. Percebendo a ameaça, a equipe lutou e derrotou Ronan, o que levou uma expedição Kree para espionar e avaliar a Terra. Capitão Mar-Vell foi um dos membro da equipe que conseguiu interagir com Ronan durante a sua missão.",
+      "abilities": [{
+          "name": "Força",
+          "level": 32
+        },
+        {
+          "name": "Inteligência",
+          "level": 41
+        },
+        {
+          "name": "Agilidade",
+          "level": 35
+        },
+        {
+          "name": "Resistência",
+          "level": 27
+        },
+        {
+          "name": "Velocidade",
+          "level": 35
+        }
+      ],
+      "films": [1, 4, 5]
+    },
+    {
+      "id": 12,
+      "real_name": "Skrull",
+      "character_name": "Talos",
+      "category": "alien",
+      "image_url": "talos.png",
+      "age": 53,
+      "weight": 78,
+      "height": 1.85,
+      "home_planet": "Skrullos",
+      "description": "Talos é um personagem fictício que aparece nas histórias em quadrinhos publicadas pela Marvel Comics. O personagem foi criado pelo escritor-roteirista Stan Lee e pelo artista Jack Kirby, e apareceu pela primeira vez em Fantastic Four # 2 (novembro de 1961).\n\nO personagem é um Skrull, uma raça alienígena que se disfarça como humanos e que tem como objetivo invadir a Terra e dominá-la. Talos é um dos Skrulls mais poderosos e mais inteligentes, e é um dos poucos que não se disfarça como um humano. Ele é um dos principais inimigos do Quarteto Fantástico.",
+      "abilities": [{
+          "name": "Força",
+          "level": 32
+        },
+        {
+          "name": "Inteligência",
+          "level": 41
+        },
+        {
+          "name": "Agilidade",
+          "level": 35
+        },
+        {
+          "name": "Resistência",
+          "level": 27
+        },
+        {
+          "name": "Velocidade",
+          "level": 35
+        }
+      ],
+      "films": [1, 4, 5]
+    },
+    {
+      "id": 13,
+      "real_name": "Homem de Ferro",
+      "character_name": "Howard Stark",
+      "category": "human",
+      "image_url": "howard_stark.png",
+      "age": 53,
+      "weight": 78,
+      "height": 1.85,
+      "home_planet": "Terra",
+      "description": "Howard Anthony Stark é um personagem fictício que aparece nas histórias em quadrinhos publicadas pela Marvel Comics. O personagem foi criado pelo escritor-roteirista Stan Lee e pelo artista Jack Kirby, e apareceu pela primeira vez em Tales of Suspense # 39 (março de 1963).\n\nHoward Stark é um industrial bilionário, inventor e empresário que se torna o pai de Tony Stark, o Homem de Ferro. Ele é um dos personagens mais antigos da Marvel Comics, e é um dos poucos personagens que apareceram em todas as fases da editora, desde a Era de Prata até a Era Moderna.",
+      "abilities": [{
+          "name": "Força",
+          "level": 32
+        },
+        {
+          "name": "Inteligência",
+          "level": 41
+        },
+        {
+          "name": "Agilidade",
+          "level": 35
+        },
+        {
+          "name": "Resistência",
+          "level": 27
+        },
+        {
+          "name": "Velocidade",
+          "level": 35
+        }
+      ],
+      "films": [1, 4, 5]
+    },
+    {
+      "id": 14,
+      "real_name": "Homem Aranha",
+      "character_name": "Mary Jane",
+      "category": "human",
+      "image_url": "mary_jane.png",
+      "age": 53,
+      "weight": 78,
+      "height": 1.85,
+      "home_planet": "Terra",
+      "description": "Mary Jane Watson-Parker é um personagem fictício que aparece nas histórias em quadrinhos publicadas pela Marvel Comics. O personagem foi criado pelo escritor-roteirista Stan Lee e pelo artista Steve Ditko, e apareceu pela primeira vez em Amazing Fantasy # 15 (agosto de 1962).\n\nMary Jane é uma das personagens mais populares da Marvel Comics, e é uma das poucas personagens femininas que apareceram em todas as fases da editora, desde a Era de Prata até a Era Moderna. Ela é uma das personagens mais importantes da editora, e é uma das poucas personagens que apareceram em todas as fases da editora, desde a Era de Prata até a Era Moderna.",
+      "abilities": [{
+          "name": "Força",
+          "level": 32
+        },
+        {
+          "name": "Inteligência",
+          "level": 41
+        },
+        {
+          "name": "Agilidade",
+          "level": 35
+        },
+        {
+          "name": "Resistência",
+          "level": 27
+        },
+        {
+          "name": "Velocidade",
+          "level": 35
+        }
+      ],
+      "films": [1, 4, 5]
+    },
+    {
+      "real_name": "Homem de Ferro",
+      "character_name": "Happy Hogan",
+      "category": "human",
+      "image_url": "happy_hogan.png",
+      "age": 53,
+      "weight": 78,
+      "height": 1.85,
+      "home_planet": "Terra",
+      "description": "Happy Hogan é um personagem fictício que aparece nas histórias em quadrinhos publicadas pela Marvel Comics. O personagem foi criado pelo escritor-roteirista Stan Lee e pelo artista Jack Kirby, e apareceu pela primeira vez em Tales of Suspense # 39 (março de 1963).\n\nHappy Hogan é o melhor amigo de Tony Stark, o Homem de Ferro. Ele é um dos personagens mais antigos da Marvel Comics, e é um dos poucos personagens que apareceram em todas as fases da editora, desde a Era de Prata até a Era Moderna.",
+      "abilities": [{
+          "name": "Força",
+          "level": 32
+        },
+        {
+          "name": "Inteligência",
+          "level": 41
+        },
+        {
+          "name": "Agilidade",
+          "level": 35
+        },
+        {
+          "name": "Resistência",
+          "level": 27
+        },
+        {
+          "name": "Velocidade",
+          "level": 35
+        }
+      ],
+      "films": [1, 4, 5]
+    }
+  ],
+  "films": [
+    {
+      "id": 1,
+      "name": "Capitão América: Guerra Civil",
+      "image_url": "civil_war.png",
+      "release_year": 2016,
+      "description": "Em Capitão América: Guerra Civil, Steve Rogers (Chris Evans) é o atual líder dos Vingadores, super-grupo de heróis formado por Viúva Negra (Scarlett Johansson), Feiticeira Escarlate (Elizabeth Olsen), Visão (Paul Bettany), Falcão (Anthony Mackie) e Máquina de Combate (Don Cheadle). O ataque de Ultron fez com que os políticos buscassem algum meio de controlar os super-heróis, já que seus atos afetam toda a humanidade. Tal decisão coloca o Capitão América em rota de colisão com Tony Stark (Robert Downey Jr.), o Homem de Ferro."
+    },
+    {
+      "id": 2,
+      "name": "Homem-Aranha: Sem Volta para Casa",
+      "image_url": "spiderman_homecoming.png",
+      "release_year": 2017,
+      "description": "Em Homem-Aranha: Sem Volta para Casa, Peter Parker (Tom Holland) está de volta às telonas, desta vez acompanhado de seus amigos Ned (Jacob Batalon), MJ (Zendaya) e o tio Ben (Marisa Tomei). O jovem herói está de férias na Europa com a turma da escola, mas precisa voltar para casa quando o vilão Abutre (Michael Keaton) aparece em Nova York. Peter precisa usar seus poderes para enfrentar o vilão e salvar a cidade."
+    },
+    {
+      "id": 3,
+      "name": "Pantera Negra",
+      "image_url": "black_panther_film.png",
+      "release_year": 2018,
+      "description": "Pantera Negra conta a história de T'Challa (Chadwick Boseman), o príncipe de Wakanda, uma nação africana avançada tecnologicamente, que se esconde por trás de uma fachada de país comum. Quando seu pai, o rei T'Chaka (John Kani), é assassinado, T'Challa retorna para Wakanda para assumir o trono e o manto do Pantera Negra. Lá, ele precisa lidar com a ameaça de Killmonger (Michael B. Jordan), um exilado que deseja tomar o lugar de T'Challa e governar Wakanda."
+    },
+    {
+      "id": 4,
+      "name": "Vingadores: Ultimato",
+      "image_url": "avengers_endgame.png",
+      "release_year": 2019,
+      "description": "Em Vingadores: Ultimato, após Thanos (Josh Brolin) eliminar metade das criaturas vivas com o toque de uma luva, os Vingadores precisam lidar com a perda de amigos e entes queridos. Com Tony Stark (Robert Downey Jr.) e Steve Rogers (Chris Evans) desaparecidos, Bruce Banner (Mark Ruffalo) e Natasha Romanoff (Scarlett Johansson) precisam liderar a equipe para derrotar o Titã Louco. Para isso, eles precisam encontrar e resgatar os Vingadores desaparecidos, além de encontrar uma forma de derrotar Thanos."
+    },
+    {
+      "id": 5,
+      "name": "Homem de Ferro 3",
+      "image_url": "iron_man_3.png",
+      "release_year": 2013,
+      "description": "Em Homem de Ferro 3, Tony Stark (Robert Downey Jr.) precisa lidar com a pressão de ser o Homem de Ferro e com a ameaça de um novo vilão, o Mandarim (Ben Kingsley). Para complicar, ele ainda precisa lidar com a reaparição de sua ex-namorada, Pepper Potts (Gwyneth Paltrow). Enquanto isso, o governo dos Estados Unidos quer controlar o Homem de Ferro. Para isso, eles contratam Aldrich Killian (Guy Pearce), um cientista que quer usar a tecnologia de Stark para criar um exército de robôs. Para enfrentar o Mandarim, Stark precisa criar uma nova armadura e contar com a ajuda de seu amigo James Rhodes (Don Cheadle), o Máquina de Combate."
+    }
+  ],
+  "categories": [
+    {
+      "name": "hero",
+      "displayName": "Heróis"
+    },
+    {
+      "name": "villain",
+      "displayName": "Vilões"
+    },
+    {
+      "name": "antihero",
+      "displayName": "Anti-heróis"
+    },
+    {
+      "name": "alien",
+      "displayName": "Alienígenas"
+    },
+    {
+      "name": "human",
+      "displayName": "Humanos"
+    }
+  ]
+}
