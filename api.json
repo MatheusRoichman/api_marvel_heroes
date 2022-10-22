@@ -528,23 +528,23 @@
   "categories": [
     {
       "name": "hero",
-      "displayName": "Heróis"
+      "display_name": "Heróis"
     },
     {
       "name": "villain",
-      "displayName": "Vilões"
+      "display_name": "Vilões"
     },
     {
       "name": "antihero",
-      "displayName": "Anti-heróis"
+      "display_name": "Anti-heróis"
     },
     {
       "name": "alien",
-      "displayName": "Alienígenas"
+      "display_name": "Alienígenas"
     },
     {
       "name": "human",
-      "displayName": "Humanos"
+      "display_name": "Humanos"
     }
   ]
 }
