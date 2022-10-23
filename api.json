@@ -13,23 +13,28 @@
       "description": "Em Forest Hills, Queens, Nova York, o estudante de ensino médio, Peter Parker, é um cientista orfão que vive com seu tio Ben e tia May. Ele é mordido por uma aranha radioativa em uma exposição científica e adquire a agilidade e a força proporcional de um aracnídeo. Junto com a super força, Parker ganha a capacidade de andar nas paredes e tetos.\n\nAtravés de sua habilidade nativa para a ciência, ele desenvolve um aparelho que o permitir lançar teias artificiais. Inicialmente buscando capitalizar suas novas habilidades, Parker cria um traje e, como Homem Aranha, torna-se uma estrela de televisão.",
       "abilities": [{
           "name": "Força",
-          "level": 32
+          "level": 32,
+          "max_level": 44
         },
         {
           "name": "Inteligência",
-          "level": 29
+          "level": 29,
+          "max_level": 44
         },
         {
           "name": "Agilidade",
-          "level": 41
+          "level": 41,
+          "max_level": 44
         },
         {
           "name": "Resistência",
-          "level": 27
+          "level": 27,
+          "max_level": 44
         },
         {
           "name": "Velocidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         }
       ],
       "films": [1, 2, 4]
@@ -47,23 +52,28 @@
       "description": "O Pantera Negra é o título cerimonial atribuído ao chefe da Tribo Pantera da avançada nação africana de Wakanda. Além de governar o país, ele também é chefe de suas várias tribos (coletivamente conhecida como Wakandas). O uniforme do Pantera é um símbolo oficial (chefe de estado) e é usado mesmo durante missões diplomáticas. O Pantera é um título hereditário, mas ainda é preciso ganhar um desafio.\n\nNo passado distante, um enorme meteorito maciço composto de vibranium - elemento que absorve o som, entre outras propriedades especiais - caiu em Wakanda, e é desenterrado uma geração antes dos eventos do presente.",
       "abilities": [{
           "name": "Força",
-          "level": 29
+          "level": 29,
+          "max_level": 44
         },
         {
           "name": "Inteligência",
-          "level": 27
+          "level": 27,
+          "max_level": 44
         },
         {
           "name": "Agilidade",
-          "level": 43
+          "level": 43,
+          "max_level": 44
         },
         {
           "name": "Resistência",
-          "level": 27
+          "level": 27,
+          "max_level": 44
         },
         {
           "name": "Velocidade",
-          "level": 38
+          "level": 38,
+          "max_level": 44
         }
       ],
       "films": [1, 3, 4]
@@ -81,23 +91,28 @@
       "description": "Tony Stark é um industrial bilionário, playboy e inventor. Ele é o fundador da Stark Industries, uma empresa de alta tecnologia. Após ser sequestrado e forçado a construir uma arma devastadora, Stark constrói uma armadura de alta tecnologia para escapar. Depois de usar sua armadura para combater os terroristas que o sequestraram, Stark decide usar sua armadura para combater o crime, tornando-se o Homem de Ferro.\n\nStark é um personagem de quadrinhos da Marvel Comics, e foi criado por Stan Lee, Larry Lieber e Don Heck. O personagem apareceu pela primeira vez em Tales of Suspense #39 (março de 1963). O Homem de Ferro foi adaptado para o cinema em 2008, com Robert Downey Jr. no papel principal.",
       "abilities": [{
           "name": "Força",
-          "level": 32
+          "level": 32,
+          "max_level": 44
         },
         {
           "name": "Inteligência",
-          "level": 41
+          "level": 41,
+          "max_level": 44
         },
         {
           "name": "Agilidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         },
         {
           "name": "Resistência",
-          "level": 27
+          "level": 27,
+          "max_level": 44
         },
         {
           "name": "Velocidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         }
       ],
       "films": [1, 4, 5]
@@ -115,23 +130,28 @@
       "description": "Johann Schmidt é um cientista alemão que se tornou o Caveira Vermelha, um supervilão que usa uma armadura de alta tecnologia para combater o Homem de Ferro. Ele é um dos principais inimigos do Homem de Ferro, e é um dos poucos vilões que já derrotou o herói.\n\nO Caveira Vermelha foi criado por Stan Lee, Don Heck e Larry Lieber, e apareceu pela primeira vez em Tales of Suspense #50 (fevereiro de 1964). O personagem foi adaptado para o cinema em 2010, com o ator Hugo Weaving no papel principal.",
       "abilities": [{
           "name": "Força",
-          "level": 32
+          "level": 32,
+          "max_level": 44
         },
         {
           "name": "Inteligência",
-          "level": 41
+          "level": 41,
+          "max_level": 44
         },
         {
           "name": "Agilidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         },
         {
           "name": "Resistência",
-          "level": 27
+          "level": 27,
+          "max_level": 44
         },
         {
           "name": "Velocidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         }
       ],
       "films": [1, 4, 5]
@@ -149,23 +169,28 @@
       "description": "Victor Von Doom é um cientista e inventor que se tornou o Doutor Destino, um supervilão que usa uma armadura de alta tecnologia para combater o Homem de Ferro. Ele é um dos principais inimigos do Homem de Ferro, e é um dos poucos vilões que já derrotou o herói.\n\nO Doutor Destino foi criado por Stan Lee, Don Heck e Larry Lieber, e apareceu pela primeira vez em Tales of Suspense #50 (fevereiro de 1964). O personagem foi adaptado para o cinema em 2010, com o ator Hugo Weaving no papel principal.",
       "abilities": [{
           "name": "Força",
-          "level": 32
+          "level": 32,
+          "max_level": 44
         },
         {
           "name": "Inteligência",
-          "level": 41
+          "level": 41,
+          "max_level": 44
         },
         {
           "name": "Agilidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         },
         {
           "name": "Resistência",
-          "level": 27
+          "level": 27,
+          "max_level": 44
         },
         {
           "name": "Velocidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         }
       ],
       "films": [1, 4, 5]
@@ -183,23 +208,28 @@
       "description": "Duende Verde é o alter-ego de Norman Osborn, um supervilão fictício que aparece nas histórias em quadrinhos norte-americanas publicadas pela Marvel Comics.\n\nO personagem foi criado pelo escritor Stan Lee e pelo artista Steve Ditko, e apareceu pela primeira vez na revista The Amazing Spider-Man # 14.",
       "abilities": [{
           "name": "Força",
-          "level": 32
+          "level": 32,
+          "max_level": 44
         },
         {
           "name": "Inteligência",
-          "level": 41
+          "level": 41,
+          "max_level": 44
         },
         {
           "name": "Agilidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         },
         {
           "name": "Resistência",
-          "level": 27
+          "level": 27,
+          "max_level": 44
         },
         {
           "name": "Velocidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         }
       ],
       "films": [1, 4, 5]
@@ -217,23 +247,28 @@
       "description": "Wade Wilson é um ex-agente da Força Tarefa X que se tornou o mercenário Deadpool. Ele é um anti-herói que usa uma armadura de alta tecnologia para combater o Homem de Ferro. Ele é um dos principais inimigos do Homem de Ferro, e é um dos poucos vilões que já derrotou o herói.\n\nO Deadpool foi criado por Rob Liefeld e Fabian Nicieza, e apareceu pela primeira vez em New Mutants #98 (fevereiro de 1991). O personagem foi adaptado para o cinema em 2010, com o ator Ryan Reynolds no papel principal.",
       "abilities": [{
           "name": "Força",
-          "level": 32
+          "level": 32,
+          "max_level": 44
         },
         {
           "name": "Inteligência",
-          "level": 41
+          "level": 41,
+          "max_level": 44
         },
         {
           "name": "Agilidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         },
         {
           "name": "Resistência",
-          "level": 27
+          "level": 27,
+          "max_level": 44
         },
         {
           "name": "Velocidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         }
       ],
       "films": [1, 4, 5]
@@ -251,23 +286,28 @@
       "description": "Venom é um simbionte alienígena formado a partir de um líquido, material orgânico de espessura. A característica marcante de Venom, além do uniforme negro, é a desproporcional e assustadora mandíbula, desenhada no traço de Todd MacFarlane.\n\nAntes de fundir-se ao simbionte e tornar-se Venom, Eddie Brock era repórter do jornal O Clarim Diário, e foi demitido por Homem-Aranha.",
       "abilities": [{
           "name": "Força",
-          "level": 32
+          "level": 32,
+          "max_level": 44
         },
         {
           "name": "Inteligência",
-          "level": 41
+          "level": 41,
+          "max_level": 44
         },
         {
           "name": "Agilidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         },
         {
           "name": "Resistência",
-          "level": 27
+          "level": 27,
+          "max_level": 44
         },
         {
           "name": "Velocidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         }
       ],
       "films": [1, 4, 5]
@@ -285,23 +325,28 @@
       "description": "O Justiceiro é um anti-herói que usa uma armadura de alta tecnologia para combater o Homem de Ferro. Ele é um dos principais inimigos do Homem de Ferro, e é um dos poucos vilões que já derrotou o herói.\n\nCriado pelo escritor Gerry Conway e pelos artistas Ross Andru e John Romita (Stan Lee aprovou o nome), apareceu pela primeira vez em The Amazing Spider-Man #129 (fev. de 1974).",
       "abilities": [{
           "name": "Força",
-          "level": 32
+          "level": 32,
+          "max_level": 44
         },
         {
           "name": "Inteligência",
-          "level": 41
+          "level": 41,
+          "max_level": 44
         },
         {
           "name": "Agilidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         },
         {
           "name": "Resistência",
-          "level": 27
+          "level": 27,
+          "max_level": 44
         },
         {
           "name": "Velocidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         }
       ],
       "films": [1, 4, 5]
@@ -319,23 +364,28 @@
       "description": "Thanos é um supervilão fictício que aparece nas histórias em quadrinhos norte-americanas publicadas pela Marvel Comics. O personagem foi criado pelo escritor-roteirista Jim Starlin e pelo artista-roteirista e co-criador do personagem, o artista George Pérez.\n\nO personagem é uma figura central na \"Saga do Infinito\", aparecendo em cinco filmes, incluindo os blockbusters Vingadores: Guerra Infinita (2018) e Vingadores: Ultimato (2019). Os filmes retratam Thanos como um guerreiro alienígena do planeta Titã, que busca coletar as seis joias do infinito e usá-las para trazer \"equilíbrio\" ao universo, eliminando metade de todos os seres vivos, a fim de estabilizar sua superpopulação.",
       "abilities": [{
           "name": "Força",
-          "level": 32
+          "level": 32,
+          "max_level": 44
         },
         {
           "name": "Inteligência",
-          "level": 41
+          "level": 41,
+          "max_level": 44
         },
         {
           "name": "Agilidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         },
         {
           "name": "Resistência",
-          "level": 27
+          "level": 27,
+          "max_level": 44
         },
         {
           "name": "Velocidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         }
       ],
       "films": [1, 4, 5]
@@ -353,23 +403,28 @@
       "description": "Ronan nasceu no planeta Hala, capital do Império alienígena Kree na Grande Nuvem de Magalhães; é membro do \"Conselho dos Acusadores\", que são o equivalente a governadores, militares e juristas. Sua ascensão na hierarquia foi extraordinária, logo acabou se tornando o terceiro mais poderoso do Império Kree. A entidade conhecida como: \"Inteligência Suprema\" o nomeou a \"Supremo Acusador do Império Kree\", e neste cargo ele ficou conhecido simplesmente como Ronan, o Acusador.\n\nMais tarde, Ronan foi enviado à Terra para investigar a derrota do robô Sentry - 459 para Quarteto Fantástico. Percebendo a ameaça, a equipe lutou e derrotou Ronan, o que levou uma expedição Kree para espionar e avaliar a Terra. Capitão Mar-Vell foi um dos membro da equipe que conseguiu interagir com Ronan durante a sua missão.",
       "abilities": [{
           "name": "Força",
-          "level": 32
+          "level": 32,
+          "max_level": 44
         },
         {
           "name": "Inteligência",
-          "level": 41
+          "level": 41,
+          "max_level": 44
         },
         {
           "name": "Agilidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         },
         {
           "name": "Resistência",
-          "level": 27
+          "level": 27,
+          "max_level": 44
         },
         {
           "name": "Velocidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         }
       ],
       "films": [1, 4, 5]
@@ -387,23 +442,28 @@
       "description": "Talos é um personagem fictício que aparece nas histórias em quadrinhos publicadas pela Marvel Comics. O personagem foi criado pelo escritor-roteirista Stan Lee e pelo artista Jack Kirby, e apareceu pela primeira vez em Fantastic Four # 2 (novembro de 1961).\n\nO personagem é um Skrull, uma raça alienígena que se disfarça como humanos e que tem como objetivo invadir a Terra e dominá-la. Talos é um dos Skrulls mais poderosos e mais inteligentes, e é um dos poucos que não se disfarça como um humano. Ele é um dos principais inimigos do Quarteto Fantástico.",
       "abilities": [{
           "name": "Força",
-          "level": 32
+          "level": 32,
+          "max_level": 44
         },
         {
           "name": "Inteligência",
-          "level": 41
+          "level": 41,
+          "max_level": 44
         },
         {
           "name": "Agilidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         },
         {
           "name": "Resistência",
-          "level": 27
+          "level": 27,
+          "max_level": 44
         },
         {
           "name": "Velocidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         }
       ],
       "films": [1, 4, 5]
@@ -421,23 +481,28 @@
       "description": "Howard Anthony Stark é um personagem fictício que aparece nas histórias em quadrinhos publicadas pela Marvel Comics. O personagem foi criado pelo escritor-roteirista Stan Lee e pelo artista Jack Kirby, e apareceu pela primeira vez em Tales of Suspense # 39 (março de 1963).\n\nHoward Stark é um industrial bilionário, inventor e empresário que se torna o pai de Tony Stark, o Homem de Ferro. Ele é um dos personagens mais antigos da Marvel Comics, e é um dos poucos personagens que apareceram em todas as fases da editora, desde a Era de Prata até a Era Moderna.",
       "abilities": [{
           "name": "Força",
-          "level": 32
+          "level": 32,
+          "max_level": 44
         },
         {
           "name": "Inteligência",
-          "level": 41
+          "level": 41,
+          "max_level": 44
         },
         {
           "name": "Agilidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         },
         {
           "name": "Resistência",
-          "level": 27
+          "level": 27,
+          "max_level": 44
         },
         {
           "name": "Velocidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         }
       ],
       "films": [1, 4, 5]
@@ -455,23 +520,28 @@
       "description": "Mary Jane Watson-Parker é um personagem fictício que aparece nas histórias em quadrinhos publicadas pela Marvel Comics. O personagem foi criado pelo escritor-roteirista Stan Lee e pelo artista Steve Ditko, e apareceu pela primeira vez em Amazing Fantasy # 15 (agosto de 1962).\n\nMary Jane é uma das personagens mais populares da Marvel Comics, e é uma das poucas personagens femininas que apareceram em todas as fases da editora, desde a Era de Prata até a Era Moderna. Ela é uma das personagens mais importantes da editora, e é uma das poucas personagens que apareceram em todas as fases da editora, desde a Era de Prata até a Era Moderna.",
       "abilities": [{
           "name": "Força",
-          "level": 32
+          "level": 32,
+          "max_level": 44
         },
         {
           "name": "Inteligência",
-          "level": 41
+          "level": 41,
+          "max_level": 44
         },
         {
           "name": "Agilidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         },
         {
           "name": "Resistência",
-          "level": 27
+          "level": 27,
+          "max_level": 44
         },
         {
           "name": "Velocidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         }
       ],
       "films": [1, 4, 5]
@@ -489,23 +559,28 @@
       "description": "Happy Hogan é um personagem fictício que aparece nas histórias em quadrinhos publicadas pela Marvel Comics. O personagem foi criado pelo escritor-roteirista Stan Lee e pelo artista Jack Kirby, e apareceu pela primeira vez em Tales of Suspense # 39 (março de 1963).\n\nHappy Hogan é o melhor amigo de Tony Stark, o Homem de Ferro. Ele é um dos personagens mais antigos da Marvel Comics, e é um dos poucos personagens que apareceram em todas as fases da editora, desde a Era de Prata até a Era Moderna.",
       "abilities": [{
           "name": "Força",
-          "level": 32
+          "level": 32,
+          "max_level": 44
         },
         {
           "name": "Inteligência",
-          "level": 41
+          "level": 41,
+          "max_level": 44
         },
         {
           "name": "Agilidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         },
         {
           "name": "Resistência",
-          "level": 27
+          "level": 27,
+          "max_level": 44
         },
         {
           "name": "Velocidade",
-          "level": 35
+          "level": 35,
+          "max_level": 44
         }
       ],
       "films": [1, 4, 5]
