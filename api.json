@@ -568,6 +568,10 @@
     {
       "name": "human",
       "display_name": "Humanos"
+    },
+    {
+      "name": "others",
+      "display_name": "Outros"
     }
   ]
 }
